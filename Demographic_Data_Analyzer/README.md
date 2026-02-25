@@ -1,7 +1,7 @@
 # Demographic Data Analyzer:
 
 ## 📋 Overview:
-A Python project that analyzes **the Adult Census Income** dataset to extract demographic and economic insights.
+A Python project that analyzes **the Adult Census Income** dataset to extract demographic and economic insights.<br/>
 Source: https://archive.ics.uci.edu/dataset/2/adult
 
 ### What It Does
